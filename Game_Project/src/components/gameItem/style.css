@@ -1,0 +1,6 @@
+.gameItemContainer {
+  margin-left: 20px;
+  margin-bottom: 20px;
+  text-align: left;
+  display: inline-flex;
+}
